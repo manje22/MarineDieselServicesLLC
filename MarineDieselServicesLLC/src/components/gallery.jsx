@@ -69,7 +69,7 @@ function Gallery() {
     <div id="slideshow-container">
       <div id="slideshow-image">
         <img
-          style={{ width: 1500}}
+          style={{ width: 1000, height: 500 }}
           src={images[nextIndex].src}
           alt="Nick"
         ></img>
