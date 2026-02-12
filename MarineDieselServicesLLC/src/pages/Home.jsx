@@ -76,9 +76,6 @@ function Home() {
             <p className="hover:text-white transition-colors duration-300">
               (954) 326-7755
             </p>
-
-            <p>1835 E Hallandale Beach Blvd #175</p>
-            <p>Hallandale Beach, FL 33009</p>
           </div>
         </section>
 
